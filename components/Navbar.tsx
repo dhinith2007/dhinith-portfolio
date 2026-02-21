@@ -1,6 +1,4 @@
-"use client";
 import Link from "next/link";
-import ThemeToggle from "./ThemeToggle";
 export default function Navbar() {
   return (
     <nav className="w-full px-8 py-4 flex justify-between items-center border-b border-[#1a1a1a] bg-black">
@@ -23,7 +21,6 @@ export default function Navbar() {
           Contact
         </a>
       </div>
-<ThemeToggle />
     </nav>
   );
 }
