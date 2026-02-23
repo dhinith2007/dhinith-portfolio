@@ -10,42 +10,57 @@ export default function CertificatesPage() {
         {
           name: "Digital Skills: Artificial Intelligence",
           platform: "Accenture FutureLearn",
-          link: "https://drive.google.com/file/d/1viQT2PG8ABsdG0XFfmukg3YySim7FR7_/view?usp=sharing"
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_artificial-intelligence-activity-7335971877661597696-QQCm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
         {
           name: "AWS Cloud Practitioner Essentials",
           platform: "AWS",
-          link: "https://drive.google.com/file/d/1DX3LX5wRAjVrDbURqyD9BEmfwfnWTCb1/view?usp=sharing"
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_aws-cloudcomputing-awscloudpractitioner-activity-7349989301767622656-PfTV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
         {
-          name: "Basics of Python & Web Design Enhancements",
+          name: "Basics of Python",
           platform: "Infosys Springboard",
-          link: "https://drive.google.com/file/d/1k0skKL1FE0oPyX8fVIXWlXw7ljw99K6o/view?usp=sharing"
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_basics-of-python-activity-7335972830662017024-hW7D?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
+        },
+        {
+          name: "Web Design Enhancements",
+          platform: "Infosys Springboard",
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_web-design-enhancements-activity-7335973945331830785-UGOL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
         {
           name: "Cybersecurity Fundamentals",
           platform: "IBM",
-          link: "https://drive.google.com/file/d/1QmEQh8F_Oem_QIkNPu-wURVLVNLXerme/view?usp=sharing"
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_cybersecurity-fundamentals-was-issued-by-activity-7348983778293202944-CkvV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
         {
           name: "Employability Skills",
           platform: "SWAYAM",
-          link: "https://drive.google.com/file/d/1kKAoYDu2Ni0qN0KN8QBSvxZBc3E7iFhw/view?usp=sharing"
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_wadhwanifoundation-employabilityskills-lifelonglearning-activity-7342906959227944961-yUvQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
         {
           name: "Data Analytics Internship Completion",
           platform: "TANSAM",
-          link: "https://drive.google.com/file/d/14Hm2AVi1s2Mh6M78YrBmRNqTLmEgMgti/view?usp=sharing"
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_dataanalytics-mindsphere-powerbi-activity-7335977227106279424-E2PG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
         {
           name: "Paper Presentation",
-          platform: "Maths Club / International Conference",
-          link: "https://drive.google.com/file/d/YOUR_PDF_ID/view"
+          platform: "Maths Club",
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_panimalarengineeringcollege-mathsclub-certificate-activity-7349666191046594561-0I1H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
         {
-          name: "Workshops Attended",
-          platform: "MSAJCE & SIMATS",
-          link: "https://drive.google.com/drive/folders/16Oxl6e32Wq0NMVbr7Q7QSYL4uWelGxTW?usp=sharing"
+          name: "Paper Presentation",
+          platform: "International Conference",
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_smartparking-iot-engineeringprojects-activity-7335978901526986753-e8OW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
+        },
+        {
+          name: "Workshops",
+          platform: "MSJACE",
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_designthinking-gratitude-workshopexperience-activity-7353828641450991617-Rloo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
+        },
+        {
+          name: "Workshops",
+          platform: "SIMATS",
+          link: "https://www.linkedin.com/posts/dhinith-pragalyan-m-8a0061355_simats-simatsworkshop-workshopexperience-activity-7335980415582621696-IOzg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFh2gbgBx8ETUpuNiWNXUBBR89_dc_KCnfM"
         },
       ],
     },
@@ -73,9 +88,9 @@ export default function CertificatesPage() {
           link: "https://www.credly.com/badges/67227e0a-bfbc-4022-b6a2-7d4c9c6972cf/public_url"
         },
         {
-          name: "AWS Machine Learning",
-          platform: "Credly (In Process)",
-          link: "#"
+          name: "AWS Machine Learning Foundations",
+          platform: "Credly",
+          link: "https://www.credly.com/badges/9656ada6-a2e0-4666-b024-fbd5404f67b7/public_url"
         },
       ],
     },
